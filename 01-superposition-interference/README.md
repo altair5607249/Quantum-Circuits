@@ -68,12 +68,19 @@ For clarity, let's look back at the circuit!
 
 When the Z gate flips the sign of the second part's amplitude, it sets up for what the second H gate will do, which redistributes each part (including their amplitudes) to both outcomes, these pieces being the routes.
 
-| Outcomes  | From Part 1 (+1/√2) | From Part 2 (−1/√2) | Total |
+| Outcome  | From Part 1 (+1/√2) | From Part 2 (−1/√2) | Total |
 |-----------|---------------------|---------------------|-------|
 | Outcome 0 | +1/2                | −1/2                | 0     |
 | Outcome 1 | +1/2                | +1/2                | 1     |
 
-Each cell is the part’s amplitude times H’s factor, which is +1/√2 for every route except the one from part 2 into outcome 1, where it’s −1/√2 because it applies both a negative and positive factor.
+And for those who want the more technical breakdown with all of the notation:
+
+| Measurable Outcome | Contribution from Part 1 (ψ₁ = +1/√2) | Contribution from Part 2 (ψ₂ = −1/√2) | Net Total Amplitude (Σψ) | Final Probability (∣Σψ∣²) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Outcome ∣0⟩ (Ground)** | +1/2 | −1/2 | **0** | **0% (Destructive)** |
+| **Outcome ∣1⟩ (Excited)** | +1/2 | +1/2 | **1** | **100% (Constructive)** |
+
+Each route's cell is the part’s amplitude times H’s factor, which is +1/√2 for every route except the one from part 2 into outcome 1, where it’s −1/√2 because it applies both a negative and positive factor.
 - For outcome 0, the routes cancel out, and the total amplitude is 0
 - For outcome 1, the routes add up, and the total amplitude is 1
 
