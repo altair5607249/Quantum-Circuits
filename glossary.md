@@ -3,27 +3,27 @@ This is where I'll be defining everything I come across during my experiments wi
 
 ## Terms & Concepts
 Below are standard terms used in quantum mechanics.
-- <u>amplitude</u> — a complex number used to describe the behavior, state, or potential outcomes of systems, wherein each outcome receives an amplitude [1]
-- <u>basis state</u> — a fundamental state with a corresponding outcome, serving as the foundation for all possible states of a quantum system
-- <u>excited state</u> — a higher energy state of a quantum object; usually the 1 basis state, but can go higher
-- <u>gate</u> — an operation of a quantum circuit that changes a qubit's amplitudes with reversible math
-- <u>ground state</u> — the lowest energy, most stable equilibrium state of a quantum object; the 0 basis state
-- <u>interference</u> — a phenomenon where the multiple amplitudes of a particle in superposition interfere with each other, resulting in certain outcomes when the particle is measured; when these amplitudes interfere, they can either add up or cancel out, leading to constructive or destructive interference [2]
-    - *<u>constructive interference</u>* — the reinforcement of an outcome's amplitude
-    - *<u>destructive interference</u>* — the cancellation of an outcome's amplitude
-- <u>normalization</u> — scaling a wavefunction so that the probability of finding a quantum object anywhere equals 1 (100%) [10]
-- <u>outcome</u> — the definite/irreversible, observable result that appears when a quantum system is measured [8]
-- <u>phase</u> — the position of a wavefunction in its cycle, measured as an angle; each amplitude in a superposition has its own phase [3]
-    - *<u>relative phase</u>* — the difference between the phases of two amplitudes in a superposition when regarding a single quantum object [3]
-- <u>qubit</u> — the basic unit of information in quantum computing; "quantum bit"
-- <u>shot</u> — a single execution/run of a quantum circuit [4]
-- <u>superposition</u> — a state in which a system has a linear combination of basis states, each with an amplitude; measuring the system returns only one of those basis states [5]
-- <u>wavefunction</u> — a mathematical description of a quantum system's state; it assigns an amplitude to each outcome [9]
+- <ins>amplitude</ins> — a complex number used to describe the behavior, state, or potential outcomes of systems, wherein each outcome receives an amplitude [1]
+- <ins>basis state</ins> — a fundamental state with a corresponding outcome, serving as the foundation for all possible states of a quantum system
+- <ins>excited state</ins> — a higher energy state of a quantum object; usually the 1 basis state, but can go higher
+- <ins>gate</ins> — an operation of a quantum circuit that changes a qubit's amplitudes with reversible math
+- <ins>ground state</ins> — the lowest energy, most stable equilibrium state of a quantum object; the 0 basis state
+- <ins>interference</ins> — a phenomenon where the multiple amplitudes of a particle in superposition interfere with each other, resulting in certain outcomes when the particle is measured; when these amplitudes interfere, they can either add up or cancel out, leading to constructive or destructive interference [2]
+    - *<ins>constructive interference</ins>* — the reinforcement of an outcome's amplitude
+    - *<ins>destructive interference</ins>* — the cancellation of an outcome's amplitude
+- <ins>normalization</ins> — scaling a wavefunction so that the probability of finding a quantum object anywhere equals 1 (100%) [10]
+- <ins>outcome</ins> — the definite/irreversible, observable result that appears when a quantum system is measured [8]
+- <ins>phase</ins> — the position of a wavefunction in its cycle, measured as an angle; each amplitude in a superposition has its own phase [3]
+    - *<ins>relative phase</ins>* — the difference between the phases of two amplitudes in a superposition when regarding a single quantum object [3]
+- <ins>qubit</ins> — the basic unit of information in quantum computing; "quantum bit"
+- <ins>shot</ins> — a single execution/run of a quantum circuit [4]
+- <ins>superposition</ins> — a state in which a system has a linear combination of basis states, each with an amplitude; measuring the system returns only one of those basis states [5]
+- <ins>wavefunction</ins> — a mathematical description of a quantum system's state; it assigns an amplitude to each outcome [9]
 
 ## Rules & Principles
 Below are standard rules explored in quantum mechanics.
-- <u>Born rule</u> — the probability of measuring an outcome for a quantum system is proportional to the squared magnitude of the outcome's total amplitude; for a normalized state, the probability **equals** that value [6]
-- <u>superposition principle</u> — in any linear system, the net response of multiple stimuli is the sum of the responses that would've been caused by each stimulus [7]
+- <ins>Born rule</ins> — the probability of measuring an outcome for a quantum system is proportional to the squared magnitude of the outcome's total amplitude; for a normalized state, the probability **equals** that value [6]
+- <ins>superposition principle</ins> — in any linear system, the net response of multiple stimuli is the sum of the responses that would've been caused by each stimulus [7]
 
 ## References
 Below are the references that I used to properly define everything in this glossary.
